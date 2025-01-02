@@ -42,9 +42,7 @@ This software system is designed for managing and conducting MCQ-based quizzes. 
  Here are the demonstration videos for the project:
 
  1. **Admin Role Video**  
-   <video src="Videos/Admin.mkv" controls="controls" style="max-width: 100%; height: auto;">
-Your browser does not support the video tag.
-   </video>
+      [Watch the Admin Role Video](https://drive.google.com/file/d/1Zl9zOyjvHbdUXC4giTQ03ZWj33ap3991/view?usp=sharing)
 
  3. **Student Role Video**  
    This video demonstrates how a student logs in, takes a quiz, answers questions, and receives feedback based on their performance.  
