@@ -19,3 +19,12 @@ This software system is designed for managing and conducting MCQ-based quizzes. 
   - 4 options.
   - An answer key.
 - Admin can add unlimited questions until choosing to quit.
+
+### Student Role
+- Login with student credentials.
+- Take a quiz of 10 randomly selected questions from the quiz.json file.
+- The system evaluates answers and provides feedback:
+    - Score >= 8: "Excellent! You have got [marks] out of 10."
+    - Score 5–7: "Good. You have got [marks] out of 10."
+    - Score 3–4: "Very poor! You have got [marks] out of 10."
+    - Score 0–2: "Very sorry, you are failed. You have got [marks] out of 10."
