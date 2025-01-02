@@ -1,4 +1,4 @@
-# Java Quiz System (SQA)
+# Quiz System JAVA
 
 This is a role-based software system for managing and participating in quizzes, built in Java. It provides two user roles: ***Admin*** and ***Student***. Admins can add questions to a quiz bank, while students can take a random 10-question quiz from the bank and receive their scores with feedback.
 
