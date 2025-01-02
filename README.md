@@ -35,6 +35,7 @@ This software system is designed for managing and conducting MCQ-based quizzes. 
    ```bash
    https://github.com/Yasir-Hossain-Katib/Quiz_System_JAVA.git
    cd Quiz_System_JAVA
+  ```
 
 ## Videos 
 
