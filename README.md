@@ -36,3 +36,15 @@ This software system is designed for managing and conducting MCQ-based quizzes. 
    https://github.com/Yasir-Hossain-Katib/Quiz_System_JAVA.git
    cd Quiz_System_JAVA
 
+## Videos 
+
+ Here are the demonstration videos for the project:
+
+ 1. **Admin Role Video**  
+   This video demonstrates how an admin logs in, adds questions to the quiz bank, and saves them to `quiz.json`.  
+   [Watch the Admin Role Video](#) *(Replace `#` with the video link)*
+
+ 2. **Student Role Video**  
+   This video demonstrates how a student logs in, takes a quiz, answers questions, and receives feedback based on their performance.  
+   [Watch the Student Role Video](#) *(Replace `#` with the video link)*
+
