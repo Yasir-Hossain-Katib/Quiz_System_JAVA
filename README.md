@@ -30,10 +30,9 @@ This software system is designed for managing and conducting MCQ-based quizzes. 
     - Score 0–2: "Very sorry, you are failed. You have got [marks] out of 10."
  
 ## How to Run the Project
-
-1. **Clone the Repository**  
+ **Clone the Repository**  
    Clone this repository to your local machine using the following command:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Java-Quiz-System_SQA.git
-   cd Java-Quiz-System_SQA
+   https://github.com/Yasir-Hossain-Katib/Quiz_System_JAVA.git
+   cd Quiz_System_JAVA
 
