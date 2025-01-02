@@ -45,7 +45,11 @@ This software system is designed for managing and conducting MCQ-based quizzes. 
    This video demonstrates how an admin logs in, adds questions to the quiz bank, and saves them to `quiz.json`.  
    [Watch the Admin Role Video](Videos/Admin.mkv)
 
- 2. **Student Role Video**  
+<video src="Videos/Admin.mkv" controls="controls" style="max-width: 100%; height: auto;">
+as
+</video>
+
+ 3. **Student Role Video**  
    This video demonstrates how a student logs in, takes a quiz, answers questions, and receives feedback based on their performance.  
    [Watch the Student Role Video](Videos/Student.mkv)
 
